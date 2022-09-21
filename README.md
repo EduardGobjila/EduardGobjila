@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EduardGobjila
-- 👀 I’m interested in starting my job as a Junior Developer
-- 🌱 I’m currently learning Front End Developer
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in starting my job as a Junior Full-Stack Web Developer
+- 🌱 I’m currently learning Front End Developer *React*
 - 📫 How to reach me @edikgobjila01@gmail.com
 
 <!---
