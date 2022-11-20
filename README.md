@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Gobjila</h1>
 <h3 align="center">A passionate full-stack developer from Moldova</h3>
 
-- 🔭 I’m currently working on [Muvi](www.muviii.art)
+- 🔭 I’m currently working on [Tasty European Food](https://extraordinary-seahorse-cfb759.netlify.app)
 
 - 🌱 I’m currently learning **React**
 
