@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **edikgobjila01@gmail.com**
 
-- ⚡ Fun fact **I do really love cycling**
+- ⚡ Fun fact **I do really love coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
